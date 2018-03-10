@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{DC079E65-0DDB-DA9E-A00C-F27BC38D76D9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PluginTest.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PluginTest.cs" Line="25" Column="3" />
+      <File FileName="Assets/Scripts/SpinCube.cs" Line="15" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.iOSPlugin PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
